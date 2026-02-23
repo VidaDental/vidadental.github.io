@@ -1,1 +1,1 @@
-# vidadental.github.ro
+# vidadental.github.io
